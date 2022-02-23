@@ -1,6 +1,6 @@
 # Image Captioning
 
-Xinze Liu(xl2822), Kun Liang(kl3056), Ting Cai(tc2945), Xiaoyun Qin(xq2189)
+Xiaoyun Qin(xq2189), Xinze Liu(xl2822), Kun Liang(kl3056), Ting Cai(tc2945)
 
 This is a repo for our group project - Image Captioning. 
 
